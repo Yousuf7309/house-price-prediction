@@ -95,3 +95,4 @@ See `requirements.txt` for all required Python libraries.
 ## 📜 License
 
 This project is for educational purposes.
+# house-price-prediction
